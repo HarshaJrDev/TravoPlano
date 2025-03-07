@@ -1,0 +1,15 @@
+{
+    background: string,
+    text: string,
+    primary: string,
+    headerBackground: string,
+    cardBackground: string,
+    inputBackground: string,
+    chipBackground: string,
+    modalBackground: string,
+    placeholder: string,
+    textSecondary: string,
+    buttonCancelBackground: string,
+    iconBackground: string,
+    chipText: string,
+  }
